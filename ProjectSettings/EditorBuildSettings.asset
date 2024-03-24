@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Examples/Scenes/MainScene.unity
+    guid: c1d29642babf7ca4aa05a23ae68468a9
+  - enabled: 1
+    path: Assets/Examples/Scenes/Lobby.unity
+    guid: e7073f19ee8574db19f8808196062ff8
+  - enabled: 1
+    path: Assets/Scenes/SplashScene.unity
+    guid: 9ad06f53b5aa2244a983f37caacdb1f0
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 2c0806cefa9d61b4eb978797dabf0adf
+  - enabled: 1
+    path: Assets/Scenes/LevelScene.unity
+    guid: 0fc42725f5aec12469c7e6fa97dffa23
+  - enabled: 1
+    path: Assets/Scenes/WaitingScene.unity
+    guid: f0595ce5a2074944da509f624ac61a01
+  - enabled: 1
+    path: Assets/Scenes/ReadyScene.unity
+    guid: 712fca5541cdfa446ae0aa864db6a5c4
+  - enabled: 1
+    path: Assets/Scenes/GamePlay.unity
+    guid: 0a5e05fbf6f0a9645993393e877b17b2
+  - enabled: 1
+    path: Assets/Scenes/AAA.unity
+    guid: e5c579a8ae3e0f44da9c92edb89cbf46
+  - enabled: 1
+    path: Assets/Scenes/Game Levels/Seesaw.unity
+    guid: fb00ef5b756b352439653c98848d8072
+  - enabled: 1
+    path: Assets/Scenes/Game Levels/Seesaw1.unity
+    guid: 7f0e7816824eaa74b812adc698c7886b
+  - enabled: 1
+    path: Assets/Scenes/Game Levels/Mountain Climb.unity
+    guid: 4cfe83a8d41cfec468d0f983eb7727ac
+  - enabled: 1
+    path: Assets/Scenes/Game Levels/Wall Break.unity
+    guid: cd8fef4cb9d46a94d86c157013a33915
+  m_configObjects: {}

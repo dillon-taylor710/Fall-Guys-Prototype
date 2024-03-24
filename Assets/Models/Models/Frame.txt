@@ -1,0 +1,7 @@
+Breathing        1-56f
+Fall                 57-106f
+Jump             107-146f
+run                147-168f
+Victory          169-221f
+Walk             222-253f
+slip                254-278f
